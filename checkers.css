@@ -4,8 +4,8 @@
 }
 
 .checkers-man {
-    width: 30px;
-    height: 30px;
+    width: 70px;
+    height: 70px;
     border: 2px solid wheat;
     margin: 0;
     padding: 0;
@@ -18,16 +18,16 @@
 
 
 .one {
-    width: 25px;
-    height: 25px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     background-color: cornsilk;
     margin: auto;
 }
 
 .two {
-    width: 25px;
-    height: 25px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     background-color: rgb(92, 86, 86);
     margin: auto
@@ -35,4 +35,8 @@
 
 .even {
     background-color: lightsalmon;
+}
+
+.valid-move {
+    opacity: 0.7;
 }
