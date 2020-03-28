@@ -4,8 +4,8 @@
 }
 
 .checkers-man {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     border: 2px solid wheat;
     margin: 0;
     padding: 0;
@@ -18,16 +18,16 @@
 
 
 .one {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     background-color: cornsilk;
     margin: auto;
 }
 
 .two {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     background-color: rgb(92, 86, 86);
     margin: auto
